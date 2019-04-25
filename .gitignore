@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+### nuke template
+.svn
+*.iml
+.idea
+.sonar
+/out
+/bin
+/.settings
+/target
+lib
+classes
+/tomcat*
+/tmp
